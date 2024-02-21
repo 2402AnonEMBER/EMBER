@@ -1,0 +1,26 @@
+{
+    "conll2003": {
+        "layer": 36,
+        "dim_tokenwise": 4096,
+        "dim_span": 4096,
+        "n_classes": 9,
+        "tokenwise": "checkpoint_1RhJT6iVua.pt",
+        "span": "checkpoint_DiCBz7FKxV.pt"
+    },
+    "conll2003_generated": {
+        "layer": 36,
+        "dim_tokenwise": 4096,
+        "dim_span": 4096,
+        "n_classes": 9,
+        "tokenwise": "checkpoint_1RhJT6iVua.pt",
+        "span": "checkpoint_FIDAVZBOjt.pt"
+    },
+    "tner/ontonotes5": {
+        "layer": 30,
+        "dim_tokenwise": 4096,
+        "dim_span": 4096,
+        "n_classes": 37,
+        "tokenwise": "checkpoint_8lluxrsct7.pt",
+        "span": "checkpoint_WFlvb2RiGj.pt"
+    }
+}
